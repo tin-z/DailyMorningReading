@@ -4,33 +4,24 @@
 
 ## 今日早读
 
-今日短句：心中有尺，行事有度。
+今日短句：生活不可能像你想象的那么好，但也不会像你想象的那么糟。人的脆弱和坚强都超乎自己的想象。
 
-林中有两条路，我选择了人迹罕至的一条，我的IoT安全学习记录
-https://github.com/Re1own/IoT_Sec
+泄露的 Windows 进程句柄识别工具
+https://github.com/lab52io/LeakedHandlesFinder
 
-安全思维导图集合
-https://github.com/SecWiki/sec-chart
+information security Tools Box （信息安全工具以及资源集合）
+https://github.com/heiye007/Sec-Box
 
-安全、简单地为你的敏感照片添加水印，防止被小人泄露、利用
-https://github.com/rosuH/EasyWatermark
+京东自动下单 (自动登录,指定时间预约商品,商品补货监控,自动加购物车,自动下单)
+https://github.com/louisyoungx/JD-SHOPPER
 
-具有各种 shellcode 注入技术的 PE 加载器
-https://github.com/Hagrid29/PELoader
+为BurpSuite打造的Nuclei插件
+https://github.com/projectdiscovery/nuclei-burp-plugin
 
-📚🔥收集全网最热门的技术书籍 (GO、黑客、Android、计算机原理、人工智能、大数据、机器学习、数据库、PHP、java、架构、消息队列、算法、python、爬虫、操作系统、linux、C语言)，不间断更新中♨️
-https://github.com/TIM168/technical_books
+基于向日葵RCE的本地权限提升，无需指定端口
+https://github.com/Ryze-T/CNVD-2022-10270-LPE
 
-信息安全从业者书单推荐
-https://github.com/riusksk/secbook
-
-分析 Windows x64 内核内存布局
-https://github.com/FaEryICE/MemScanner
-
-Xshell全版本密码解密工具
-https://github.com/JDArmy/SharpXDecrypt
-
-<<自己动手写docker>> 源码
-https://github.com/xianlubird/mydocker
+Go learning materials，涵盖基础、中级和高级教程
+https://github.com/jincheng9/go-tutorial
 
 > 来自HACK THE WORLD知识星球 && OverSpace安全团队
