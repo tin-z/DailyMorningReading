@@ -4,21 +4,24 @@
 
 ## 今日早读
 
-今日短句：成熟点，没必要把负面情绪让所有人知道。
+今日短句：祷以恒切, 盼以喜乐，苦以坚忍，必有所得。
 
-SunloginLPE - 向日葵11.0.x版本命令执行漏洞，本地验证工具。
-https://github.com/gh0stkey/SunloginLPE
+Cobalt Strike Python API
+https://github.com/dcsync/pycobalt
 
-API Security Projecto旨在展示API安全领域独特的攻击和防御方法
-https://github.com/cyprosecurity/API-SecurityEmpire
+Battleyes shellcode的代码
+https://github.com/weak1337/BE-Shellcode
 
-Yao 一个用于创建 Web 服务和仪表板的低代码引擎。
-https://github.com/YaoApp/yao
+CE检测器
+https://github.com/weak1337/CEDetector
 
-💻📖对开发人员有用的定律、理论、原则和模式。(Laws, Theories, Principles and Patterns that developers will find useful.)
-https://github.com/nusr/hacker-laws-zh
+利用任意文件下载漏洞循环下载反编译 Class 文件获得网站 Java 源代码
+https://github.com/LandGrey/ClassHound
 
-一个用于 XSS 的 js 编码/解码简单工具
-https://github.com/Monyer/xssee
+基于Rust和eBPF实现RDMA内核模块、驱动
+https://github.com/oscomp/proj148-RDMA-Driver-Rust-eBPF
+
+大安全各领域各公司各会议分享的PPT
+https://github.com/FeeiCN/Security-PPT
 
 > 来自HACK THE WORLD知识星球 && OverSpace安全团队
