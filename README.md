@@ -4,27 +4,30 @@
 
 ## 今日早读
 
-今日短句：老规矩，才是最不容易出错的规矩。
+今日短句：离别与重逢，是人生不停上演的戏，习惯了也就不再悲怆。
 
-Vuln Analysis, 漏洞分析
-https://github.com/ray-cp/Vuln_Analysis
+笔记：代码审计、内网渗透、Web安全
+https://github.com/nbxiglk0/Note
 
-一些安全研究工具的安装脚本
-https://github.com/zardus/ctf-tools
+一款iOS端基于MITM(中间人攻击技术)实现的HTTPS抓包工具，完整的App，核心代码使用SwiftNIO实现
+https://github.com/Lojii/Knot
 
-用于收集和处理与Windows上的框架演示有关的ETW事件的工具
-https://github.com/GameTechDev/PresentMon
+EdrKiller
+https://github.com/Ryze-T/EdrKiller
 
-将代码注入到合法进程中
-https://github.com/MalwareTech/ZombifyProcess
+向日葵RCE，网段扫描/中文显示
+https://github.com/ce-automne/SunloginRCE
 
-用rust核心和alloc编写的Cobalt Strike的信标对象文件（BOF）
-https://github.com/wumb0/rust_bof
+🌪️ 应用程序Fuzzer
+https://github.com/samhocevar/zzuf
 
-veinmind-tools 是由长亭科技自研，基于veinmind-sdk打造的容器安全工具集
-https://github.com/chaitin/veinmind-tools
+短信转发器——监控Android手机短信、来电、APP通知，并根据指定规则转发到其他手机
+https://github.com/pppscn/SmsForwarder
 
-CVE-2022-21971 "Windows运行时远程代码执行漏洞 "的PoC项目
-https://github.com/0vercl0k/CVE-2022-21971
+读取王者荣耀对局内敌方位置，技能cd以及血量的小程序
+https://github.com/kekeimiku/kbz
+
+利用正则对不同的目标进行匹配，URL，js，遍历文件夹文件
+https://github.com/sv3nbeast/SecretKiller
 
 > 来自HACK THE WORLD知识星球 && OverSpace安全团队
