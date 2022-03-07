@@ -993,3 +993,57 @@ https://github.com/kekeimiku/kbz
 https://github.com/sv3nbeast/SecretKiller
 
 > 来自HACK THE WORLD知识星球 && OverSpace安全团队
+
+#HACK-THE-WORLD早读#
+
+今日短句：顺境中的好运，为人们所希冀；逆境中的好运，则为人们所惊奇。
+
+修改版rebeyond
+https://github.com/angels520/rebeyond-Mode
+
+基于 LLVM 12.0.1 的混淆器
+https://github.com/bluesadi/Pluto-Obfuscator
+
+在 Windows 上扫描已安装的 EDR 和 AV
+https://github.com/FourCoreLabs/EDRHunt
+
+使用多个搜索引擎快速发现互联网上暴露的主机
+https://github.com/projectdiscovery/uncover
+
+一种识别功能符号的工具（IDA插件）
+https://github.com/aliyunav/Finger
+
+Golang 绕过杀软的生成器模板
+https://github.com/Arks7/Go_Bypass
+
+> 来自HACK THE WORLD知识星球 && OverSpace安全团队
+
+#HACK-THE-WORLD早读#
+
+今日短句：在希望与失望的决斗中，如果你用勇气与坚决的双手紧握着，胜利必属于希望。
+
+基于Xposed框架安卓脱壳软件
+https://github.com/nilzz-00/xpu01
+
+基于Burp插件开发打造渗透测试自动化
+https://github.com/dongfangyuxiao/BurpExtend
+
+用于渗透测试者的多跳代理工具
+https://github.com/lz520520/Stowaway
+
+go语言封装的各种对称加密和非对称加密，可以直接使用，包括3重DES，AES的CBC和CTR模式，还有RSA非对称加密,ECC椭圆曲线的加密和数字签名
+https://github.com/wumansgy/goEncrypt
+
+重生之我是赏金猎人系列，分享自己和团队在SRC、项目实战漏洞测试过程中的有趣案例
+https://github.com/J0o1ey/BountyHunterInChina
+
+一些 Rust 进程注入器 POC
+https://github.com/HuskyHacks/RustyProcessInjectors
+
+注入JVM进程 动态获取目标进程连接的数据库
+https://github.com/BeichenDream/InjectJDBC
+
+A UiAutomator on android, does not need root access(安卓平台上的JavaScript自动化工具)
+https://github.com/TonyJiangWJ/Auto.js
+
+> 来自HACK THE WORLD知识星球 && OverSpace安全团队

@@ -4,30 +4,30 @@
 
 ## 今日早读
 
-今日短句：离别与重逢，是人生不停上演的戏，习惯了也就不再悲怆。
+今日短句：在希望与失望的决斗中，如果你用勇气与坚决的双手紧握着，胜利必属于希望。
 
-笔记：代码审计、内网渗透、Web安全
-https://github.com/nbxiglk0/Note
+基于Xposed框架安卓脱壳软件
+https://github.com/nilzz-00/xpu01
 
-一款iOS端基于MITM(中间人攻击技术)实现的HTTPS抓包工具，完整的App，核心代码使用SwiftNIO实现
-https://github.com/Lojii/Knot
+基于Burp插件开发打造渗透测试自动化
+https://github.com/dongfangyuxiao/BurpExtend
 
-EdrKiller
-https://github.com/Ryze-T/EdrKiller
+用于渗透测试者的多跳代理工具
+https://github.com/lz520520/Stowaway
 
-向日葵RCE，网段扫描/中文显示
-https://github.com/ce-automne/SunloginRCE
+go语言封装的各种对称加密和非对称加密，可以直接使用，包括3重DES，AES的CBC和CTR模式，还有RSA非对称加密,ECC椭圆曲线的加密和数字签名
+https://github.com/wumansgy/goEncrypt
 
-🌪️ 应用程序Fuzzer
-https://github.com/samhocevar/zzuf
+重生之我是赏金猎人系列，分享自己和团队在SRC、项目实战漏洞测试过程中的有趣案例
+https://github.com/J0o1ey/BountyHunterInChina
 
-短信转发器——监控Android手机短信、来电、APP通知，并根据指定规则转发到其他手机
-https://github.com/pppscn/SmsForwarder
+一些 Rust 进程注入器 POC
+https://github.com/HuskyHacks/RustyProcessInjectors
 
-读取王者荣耀对局内敌方位置，技能cd以及血量的小程序
-https://github.com/kekeimiku/kbz
+注入JVM进程 动态获取目标进程连接的数据库
+https://github.com/BeichenDream/InjectJDBC
 
-利用正则对不同的目标进行匹配，URL，js，遍历文件夹文件
-https://github.com/sv3nbeast/SecretKiller
+A UiAutomator on android, does not need root access(安卓平台上的JavaScript自动化工具)
+https://github.com/TonyJiangWJ/Auto.js
 
 > 来自HACK THE WORLD知识星球 && OverSpace安全团队
