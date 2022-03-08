@@ -4,30 +4,30 @@
 
 ## 今日早读
 
-今日短句：在希望与失望的决斗中，如果你用勇气与坚决的双手紧握着，胜利必属于希望。
+今日短句：雄心壮志是茫茫黑夜中的北斗星。
 
-基于Xposed框架安卓脱壳软件
-https://github.com/nilzz-00/xpu01
+CodeFever 是完全免费开源的 Git 代码托管服务，支持一行命令安装到自己服务器！CodeFever Community Edition (A Self-hosted Git Services)!
+https://github.com/PGYER/codefever
 
-基于Burp插件开发打造渗透测试自动化
-https://github.com/dongfangyuxiao/BurpExtend
+利用RPC服务，批量探测内网Windows出网情况
+https://github.com/syyu6/WinRpcTest
 
-用于渗透测试者的多跳代理工具
-https://github.com/lz520520/Stowaway
+浏览过的精彩逆向文章汇总，值得一看
+https://github.com/darbra/sperm
 
-go语言封装的各种对称加密和非对称加密，可以直接使用，包括3重DES，AES的CBC和CTR模式，还有RSA非对称加密,ECC椭圆曲线的加密和数字签名
-https://github.com/wumansgy/goEncrypt
+使用 Powershell 加载任何 Beacon 对象文件！
+https://github.com/airbus-cert/Invoke-Bof
 
-重生之我是赏金猎人系列，分享自己和团队在SRC、项目实战漏洞测试过程中的有趣案例
-https://github.com/J0o1ey/BountyHunterInChina
+RefleXXion是一个旨在帮助绕过AV/EPP/EDR等利用的用户模式钩子的工具。
+https://github.com/hlldz/RefleXXion
 
-一些 Rust 进程注入器 POC
-https://github.com/HuskyHacks/RustyProcessInjectors
+一个保护性和低级别的shellcode加载器，可击败现代EDR系统。
+https://github.com/cribdragg3r/Alaris
 
-注入JVM进程 动态获取目标进程连接的数据库
-https://github.com/BeichenDream/InjectJDBC
+CVE-2022-0847漏洞利用
+https://github.com/Arinerron/CVE-2022-0847-DirtyPipe-Exploit
 
-A UiAutomator on android, does not need root access(安卓平台上的JavaScript自动化工具)
-https://github.com/TonyJiangWJ/Auto.js
+SysWhispers on Steroids - 通过直接系统调用规避AV/EDR。
+https://github.com/klezVirus/SysWhispers3
 
 > 来自HACK THE WORLD知识星球 && OverSpace安全团队
