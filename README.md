@@ -4,24 +4,27 @@
 
 ## 今日早读
 
-今日短句：不怕路远，就怕志短。
+今日短句：怠惰是贫穷的制造厂。
 
-PE加壳程序
-https://github.com/longqun/Packer
+用于在 Java 应用程序中查找反序列化小工具链的字节码分析器
+https://github.com/JackOfMostTrades/gadgetinspector
 
-从新的ntdll.dll副本中获得新的系统调用
-https://github.com/S3cur3Th1sSh1t/NimGetSyscallStub
+GeoIP 规则文件加强版，同时支持定制 V2Ray dat 格式路由规则文件
+https://github.com/Loyalsoldier/geoip
 
-破解学习笔记
-https://github.com/lyy289065406/crack-notes
+改造BeichenDream/InjectJDBC加入shiro获取key和修改key功能
+https://github.com/SummerSec/AgentInjectTool
 
-威胁情报播报
-https://github.com/lyy289065406/threat-broadcast
+自动化攻击评估系统
+https://github.com/b0bac/Apollo
 
-GetProcAddressByHash/remap/full dll unhooking/Tartaru's Gate/Spoofing Gate/universal/Perun's Fart/Spoofing-Gate/EGG golang实现
-https://github.com/timwhitez/Doge-Gabh
+DoppelGate依靠读取磁盘上的ntdll来抓取系统调用，并将这些系统调用修补成所需的功能，以绕过Userland Hooking。
+https://github.com/asaurusrex/DoppelGate
 
-卸载冰蝎内存马
-https://github.com/wuppp/releaseBehinderShell
+从主机中提取构建信息和系统调用(syscall)号码的实用项目
+https://github.com/nettitude/SyscallsExtractor
+
+重学Java设计模式
+https://github.com/fuzhengwei/itstack-demo-design
 
 > 来自HACK THE WORLD知识星球 && OverSpace安全团队
