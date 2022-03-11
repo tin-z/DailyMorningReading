@@ -4,27 +4,27 @@
 
 ## 今日早读
 
-今日短句：怠惰是贫穷的制造厂。
+今日短句：努力就是努力，决定努力就要踏踏实实，一步一个脚印，不是瞻前顾后，畏首畏尾，胡思乱想，更不是装模作样。
 
-用于在 Java 应用程序中查找反序列化小工具链的字节码分析器
-https://github.com/JackOfMostTrades/gadgetinspector
+pineapple lang 是一个简单的编程语言 demo. 它包含了个手写的递归下降解析器和一个简单的解释器. 虽然该语言甚至不是图灵完备的. 但 pineapple 的主要目的是让编译原理初学者有一个预热, 简单了解一个编程语言是怎么构建的.
+https://github.com/karminski/pineapple
 
-GeoIP 规则文件加强版，同时支持定制 V2Ray dat 格式路由规则文件
-https://github.com/Loyalsoldier/geoip
+本教程教大家用 450 行 Go 代码实现一个简单的编程语言
+https://github.com/karminski/write-a-programming-language-in-450-lines
 
-改造BeichenDream/InjectJDBC加入shiro获取key和修改key功能
-https://github.com/SummerSec/AgentInjectTool
+逆向 Swift 文档
+https://github.com/doronz88/swift_reversing
 
-自动化攻击评估系统
-https://github.com/b0bac/Apollo
+CVE-2020-0787支持Windows全平台的Exp
+https://github.com/cbwang505/CVE-2020-0787-EXP-ALL-WINDOWS-VERSION
 
-DoppelGate依靠读取磁盘上的ntdll来抓取系统调用，并将这些系统调用修补成所需的功能，以绕过Userland Hooking。
-https://github.com/asaurusrex/DoppelGate
+对原版https://github.com/feihong-cs/JNDIExploit 进行了实用化修改
+https://github.com/WhiteHSBG/JNDIExploit
 
-从主机中提取构建信息和系统调用(syscall)号码的实用项目
-https://github.com/nettitude/SyscallsExtractor
+用于 JNDI 注入攻击的恶意 LDAP 服务器
+https://github.com/veracode-research/rogue-jndi
 
-重学Java设计模式
-https://github.com/fuzhengwei/itstack-demo-design
+Windows 多功能控制工具
+https://github.com/riverar/mach2
 
 > 来自HACK THE WORLD知识星球 && OverSpace安全团队
