@@ -4,24 +4,24 @@
 
 ## 今日早读
 
-今日短句：男儿不展同云志，空负天生八尺躯。
+今日短句：事常与人违，事总在人为。
 
-参考十余个项目整理的目录和文件字典
-https://github.com/t43Wiu6/blackJack-Dicts
+Android隐私合规检测，注解+Asm修改字节码的检测方案
+https://github.com/allenymt/PrivacySentry
 
-Javassist官方文档中文翻译
-https://github.com/IndustriousSnail/javassist-learn
+使用 impacket 开发的后利用脚本
+https://github.com/Rvn0xsy/impacket-suite
 
-(批量化改造)sharpwmi是一个基于rpc的横向移动工具，具有上传文件和执行命令功能。
-https://github.com/idiotc4t/sharpwmi
+使用 Github Actions 自动监控 github cve
+https://github.com/p1ay8y3ar/cve_monitor
 
-Rust 进程注入器 POC
-https://github.com/HuskyHacks/RustyProcessInjectors
+冰蝎Java WebShell自动化免杀生成
+https://github.com/Tas9er/ByPassBehinder4J
 
-使用自定义键盘布局实现命令执行
-https://github.com/NtQuerySystemInformation/CustomKeyboardLayoutPersistence
+利用大量高威胁poc/exp快速获取目标权限，用于渗透和红队快速打点
+https://github.com/tr0uble-mAker/POC-bomber
 
-红队常用命令速查
-https://github.com/safe6Sec/command
+IDA插件集合，含项目名称及项目地址。
+https://github.com/HACK-THE-WORLD/IDAPluginList
 
 > 来自HACK THE WORLD知识星球 && OverSpace安全团队
