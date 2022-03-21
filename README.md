@@ -4,33 +4,33 @@
 
 ## 今日早读
 
-今日短句：莫找借口失败，只找理由成功。
+今日短句：如果放弃太早，你永远都不知道自己会错过什么。
 
-中华人民共和国法律手册
-https://github.com/RanKKI/LawRefBook
+新一代root，跟面具完全不同思路，摆脱面具被检测的弱点，完美隐藏root功能，挑战全网root检测手段，兼容安卓APP直接JNI调用，稳定、流畅、不闪退。
+https://github.com/abcz316/linuxKernelRoot
 
-2021西湖论剑IoT、虚实结合赛后开放资源
-https://github.com/DasSecurity-HatLab/IoT-CTF-2021
+《Learn LLVM 12》的非专业个人翻译
+https://github.com/xiaoweiChen/Learn-LLVM-12
 
-轻量级VT框架和Ept无痕HOOK，测试环境：WIN10 1903，WIN7
-https://github.com/WWFWT/TinyVT
+该资源详细介绍Powershell脚本混淆、解混淆、抽象语法树提取、token提取、恶意性检测等内容，希望对您有所帮助！
+https://github.com/eastmountyxz/PowershellDetect
 
-自动化巡航扫描框架（可用于红队打点评估）
-https://github.com/b0bac/ApolloScanner
+用于 eBPF 字节码的 IDA 处理器
+https://github.com/zandi/eBPF_processor
 
-自动化Host碰撞工具，帮助红队快速扩展网络边界，获取更多目标点
-https://github.com/cckuailong/hostscan
+一个 C# 工具，更灵活地自定义计划任务，用于红队操作中的持久性和横向移动
+https://github.com/netero1010/ScheduleRunner
 
-一款取决于用户策略的资产管理平台
-https://github.com/tangxiaofeng7/XScan
+NOPEN Tool 又名“morerats” 莫雷斯特，是方程式工具包里的工具。
+https://github.com/AlphabugX/nopen
 
-Java内存马注入工具
-https://github.com/WisteriaTiger/JundeadShell
+CVE-2022-24990信息泄露+RCE 一条龙
+https://github.com/lishang520/CVE-2022-24990
 
-《深入理解CodeQL》Finding vulnerabilities with CodeQL.
-https://github.com/ASTTeam/CodeQL
+Redis沙盒逃逸漏洞复现(CVE-2022-0543)
+https://github.com/Newbee740/REDIS-CVE-2022-0543
 
-An open source tool focused on software supply chain security. 墨菲安全专注于软件供应链安全，具备专业的软件成分分析（SCA）、漏洞检测、专业漏洞库。
-https://github.com/murphysecurity/murphysec
+软考高级全科目（系统架构设计师、信息系统项目管理师、系统分析师、系统规划与管理师、网络规划设计师）考试全套最新资料
+https://github.com/xxlllq/ruankao_exam
 
 > 来自HACK THE WORLD知识星球 && OverSpace安全团队
