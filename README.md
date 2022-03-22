@@ -4,33 +4,30 @@
 
 ## 今日早读
 
-今日短句：如果放弃太早，你永远都不知道自己会错过什么。
+今日短句：光鲜亮丽的背后，定是脚踏实地的付出。具备什么样的磁场，便驾驭什么样的财富。
 
-新一代root，跟面具完全不同思路，摆脱面具被检测的弱点，完美隐藏root功能，挑战全网root检测手段，兼容安卓APP直接JNI调用，稳定、流畅、不闪退。
-https://github.com/abcz316/linuxKernelRoot
+C# C2 框架
+https://github.com/Gr1mmie/AtlasC2
 
-《Learn LLVM 12》的非专业个人翻译
-https://github.com/xiaoweiChen/Learn-LLVM-12
+ZheTian 免杀shellcode执行程序
+https://github.com/yqcs/ZheTian
 
-该资源详细介绍Powershell脚本混淆、解混淆、抽象语法树提取、token提取、恶意性检测等内容，希望对您有所帮助！
-https://github.com/eastmountyxz/PowershellDetect
+一款交互的免杀工具
+https://github.com/liusuxyds-only/XY-AASTools-1.7
 
-用于 eBPF 字节码的 IDA 处理器
-https://github.com/zandi/eBPF_processor
+captcha-killer的修改版，主要用于验证码爆破，适配新版Burpsuite
+https://github.com/f0ng/captcha-killer-modified
 
-一个 C# 工具，更灵活地自定义计划任务，用于红队操作中的持久性和横向移动
-https://github.com/netero1010/ScheduleRunner
+数据库接管 UDF 存储库
+https://github.com/sqlmapproject/udfhack
 
-NOPEN Tool 又名“morerats” 莫雷斯特，是方程式工具包里的工具。
-https://github.com/AlphabugX/nopen
+绕过360、火绒等安全设备拦截添加用户
+https://github.com/fengya0/bypassAV
 
-CVE-2022-24990信息泄露+RCE 一条龙
-https://github.com/lishang520/CVE-2022-24990
+常用中国网站白名单，纯列表，用于 SwitchyOmega，控制不走代理的网站。
+https://github.com/pluwen/china-domain-allowlist
 
-Redis沙盒逃逸漏洞复现(CVE-2022-0543)
-https://github.com/Newbee740/REDIS-CVE-2022-0543
-
-软考高级全科目（系统架构设计师、信息系统项目管理师、系统分析师、系统规划与管理师、网络规划设计师）考试全套最新资料
-https://github.com/xxlllq/ruankao_exam
+社区策划的公共漏洞赏金和负责任的披露计划列表
+https://github.com/projectdiscovery/public-bugbounty-programs
 
 > 来自HACK THE WORLD知识星球 && OverSpace安全团队
