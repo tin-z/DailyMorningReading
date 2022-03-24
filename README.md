@@ -4,30 +4,30 @@
 
 ## 今日早读
 
-今日短句：光鲜亮丽的背后，定是脚踏实地的付出。具备什么样的磁场，便驾驭什么样的财富。
+今日短句：要努力，但是不要着急，凡事都应该有过程。
 
-C# C2 框架
-https://github.com/Gr1mmie/AtlasC2
+获取Exchange信息的小工具
+https://github.com/Ridter/owa_info
 
-ZheTian 免杀shellcode执行程序
-https://github.com/yqcs/ZheTian
+Golang免杀生成工具
+https://github.com/Sec-Fork/GoBypass
 
-一款交互的免杀工具
-https://github.com/liusuxyds-only/XY-AASTools-1.7
+DNSLOG平台 golang 一键启动版
+https://github.com/yumusb/DNSLog-Platform-Golang
 
-captcha-killer的修改版，主要用于验证码爆破，适配新版Burpsuite
-https://github.com/f0ng/captcha-killer-modified
+漏洞检测框架 Meppo
+https://github.com/WingsSec/Meppo
 
-数据库接管 UDF 存储库
-https://github.com/sqlmapproject/udfhack
+一套面向扩展设计的企业级低代码技术体系
+https://github.com/alibaba/lowcode-engine
 
-绕过360、火绒等安全设备拦截添加用户
-https://github.com/fengya0/bypassAV
+多平台通知 SDK(Bark、Chanify、钉钉群机器人、Discord、邮件、飞书群机器人、Gitter、Google Chat、iGot、Logger、Mattermost、Now Push、PushBack、Push、PushDeer、PushPlus、Rocket Chat、Serv…
+https://github.com/guanguans/notify
 
-常用中国网站白名单，纯列表，用于 SwitchyOmega，控制不走代理的网站。
-https://github.com/pluwen/china-domain-allowlist
+基于Java实现的Shellcode加载器
+https://github.com/yzddmr6/Java-Shellcode-Loader
 
-社区策划的公共漏洞赏金和负责任的披露计划列表
-https://github.com/projectdiscovery/public-bugbounty-programs
+检查哪些 Windows API 被 AV/EDR Hook
+https://github.com/VirtualAlllocEx/AV-EDR-WIN32-API-Hooking-List
 
 > 来自HACK THE WORLD知识星球 && OverSpace安全团队
