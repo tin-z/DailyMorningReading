@@ -4,30 +4,30 @@
 
 ## 今日早读
 
-今日短句：要努力，但是不要着急，凡事都应该有过程。
+今日短句：自己打败自己是最可悲的失败，自己战胜自己是最可贵的胜利。
 
-获取Exchange信息的小工具
-https://github.com/Ridter/owa_info
+利用白名单文件 cdb.exe 执行 shellcode
+https://github.com/Ryze-T/cdb-wds
 
-Golang免杀生成工具
-https://github.com/Sec-Fork/GoBypass
+shellcode 生成框架
+https://github.com/lainswork/shellcode-factory
 
-DNSLOG平台 golang 一键启动版
-https://github.com/yumusb/DNSLog-Platform-Golang
+rpc map扫描工具
+https://github.com/JDArmy/RPCSCAN
 
-漏洞检测框架 Meppo
-https://github.com/WingsSec/Meppo
+冰蝎 哥斯拉 WebShell bypass
+https://github.com/czz1233/GBByPass
 
-一套面向扩展设计的企业级低代码技术体系
-https://github.com/alibaba/lowcode-engine
+APC 内部研究代码
+https://github.com/repnz/apc-research
 
-多平台通知 SDK(Bark、Chanify、钉钉群机器人、Discord、邮件、飞书群机器人、Gitter、Google Chat、iGot、Logger、Mattermost、Now Push、PushBack、Push、PushDeer、PushPlus、Rocket Chat、Serv…
-https://github.com/guanguans/notify
+基于Golang实现的Shellcode内存加载器,共实现3中内存加载shellcode方式,UUID加载,MAC加载和IPv4加载,目前能过主流杀软(包括Windows Defender)
+https://github.com/crisprss/Shellcode_Memory_Loader
 
-基于Java实现的Shellcode加载器
-https://github.com/yzddmr6/Java-Shellcode-Loader
+威胁狩猎 Web Windows AD linux ATT&CK TTP
+https://github.com/12306Bro/Threathunting-book
 
-检查哪些 Windows API 被 AV/EDR Hook
-https://github.com/VirtualAlllocEx/AV-EDR-WIN32-API-Hooking-List
+利用图形化识别技术快速关闭目标机器上的杀毒软件
+https://github.com/PDWR/AVKiller
 
 > 来自HACK THE WORLD知识星球 && OverSpace安全团队
