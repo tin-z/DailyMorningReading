@@ -1416,3 +1416,60 @@ https://github.com/cckuailong/spring-cloud-function-SpEL-RCE
 https://github.com/G4rb3n/Malbox
 
 > 来自HACK THE WORLD知识星球 && OverSpace安全团队
+
+#HACK-THE-WORLD早读#
+
+今日短句：生活不可能像你想象的那么好，但也不会像你想象的那么糟。人的脆弱和坚强都超乎自己的想象。
+
+通过使用 tun 来实现透明代理。实现了类似 surge 增强模式与网关模式。
+https://github.com/gfreezy/seeker
+
+Default password scanner. 默认密码扫描器
+https://github.com/0xHJK/TotalPass
+
+内存马学习
+https://github.com/safe6Sec/MemoryShell
+
+JetBrains系列产品.idea钓鱼反制红队
+https://github.com/CC11001100/idea-project-fish-exploit
+
+DLL劫持
+https://github.com/kiwings/DLLHijacker
+
+将shellcode注入dwm.exe以进行屏幕截取
+https://github.com/lainswork/dwm-screen-shot
+
+> 来自HACK THE WORLD知识星球 && OverSpace安全团队
+
+#HACK-THE-WORLD早读#
+
+今日短句：生活总是让我们遍体鳞伤，但到后来，那些受伤的地方一定会变成我们最强壮的地方。
+
+OpenStego 是一个提供两种功能的隐写术应用程序
+https://github.com/syvaidya/openstego
+
+从零开始学免杀
+https://github.com/luckyfuture0177/ReZeroBypassAV
+
+适用于 Android/IOS/Linux/MacOS 的 Hook 框架
+https://github.com/asLody/whale
+
+一个 .NET 工具，用于在不接触磁盘的情况下导出和导入证书。
+https://github.com/TheWover/CertStealer
+
+用 Golang 实现的中间人攻击（Man-in-the-middle），解析、监测、篡改 HTTP/HTTPS 流量。
+https://github.com/lqqyt2423/go-mitmproxy
+
+一些XSS漏洞有关的资源
+https://github.com/s0md3v/AwesomeXSS
+
+使用 shellcode 作为 asm 函数
+https://github.com/timwhitez/Doge-newSyscall
+
+XSS 向量/有效载荷
+https://github.com/RenwaX23/XSS-Payloads
+
+基于Frida的Android App隐私合规检测辅助工具
+https://github.com/zhengjim/camille
+
+> 来自HACK THE WORLD知识星球 && OverSpace安全团队
