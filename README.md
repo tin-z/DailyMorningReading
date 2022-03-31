@@ -4,33 +4,24 @@
 
 ## 今日早读
 
-今日短句：生活总是让我们遍体鳞伤，但到后来，那些受伤的地方一定会变成我们最强壮的地方。
+今日短句：时间就像海绵里的水, 挤挤总是有的。
 
-OpenStego 是一个提供两种功能的隐写术应用程序
-https://github.com/syvaidya/openstego
+weblogic漏洞利用框架
+https://github.com/0nise/weblogic-framework
 
-从零开始学免杀
-https://github.com/luckyfuture0177/ReZeroBypassAV
+泛微OA某版本的SQL注入漏洞
+https://github.com/Wrin9/weaverOA_sql_injection
 
-适用于 Android/IOS/Linux/MacOS 的 Hook 框架
-https://github.com/asLody/whale
+一键调用subfinder+ksubdomain+httpx 强强联合 从域名发现-->域名验证-->获取域名标题、状态码以及响应大小 最后保存结果,简化重复操作命令
+https://github.com/Mr-xn/subdomain_shell
 
-一个 .NET 工具，用于在不接触磁盘的情况下导出和导入证书。
-https://github.com/TheWover/CertStealer
+Spring4Shell漏洞环境
+https://github.com/jbaines-r7/spring4shell_vulnapp
 
-用 Golang 实现的中间人攻击（Man-in-the-middle），解析、监测、篡改 HTTP/HTTPS 流量。
-https://github.com/lqqyt2423/go-mitmproxy
+个人使用CodeQL编写的一些规则
+https://github.com/ice-doom/CodeQLRule
 
-一些XSS漏洞有关的资源
-https://github.com/s0md3v/AwesomeXSS
-
-使用 shellcode 作为 asm 函数
-https://github.com/timwhitez/Doge-newSyscall
-
-XSS 向量/有效载荷
-https://github.com/RenwaX23/XSS-Payloads
-
-基于Frida的Android App隐私合规检测辅助工具
-https://github.com/zhengjim/camille
+FPS透视和自动瞄准作弊的实现(使用imgui)，仅供学习参考
+https://github.com/WWFWT/FPSCheat
 
 > 来自HACK THE WORLD知识星球 && OverSpace安全团队
