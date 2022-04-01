@@ -4,24 +4,24 @@
 
 ## 今日早读
 
-今日短句：时间就像海绵里的水, 挤挤总是有的。
+今日短句：我们总害怕死亡，而如果人真的可以永远活着，我想人们同样会像害怕死亡一样害怕永恒，或厌倦永恒。
 
-weblogic漏洞利用框架
-https://github.com/0nise/weblogic-framework
+C++ 资源大全中文版，标准库、Web应用框架、人工智能、数据库、图片处理、机器学习、日志、代码分析等。由「开源前哨」和「CPP开发者」微信公号团队维护更新。
+https://github.com/jobbole/awesome-cpp-cn
 
-泛微OA某版本的SQL注入漏洞
-https://github.com/Wrin9/weaverOA_sql_injection
+由IM技术专家打造的基于 Go 实现的即时通讯（IM）项目
+https://github.com/OpenIMSDK/Open-IM-Server
 
-一键调用subfinder+ksubdomain+httpx 强强联合 从域名发现-->域名验证-->获取域名标题、状态码以及响应大小 最后保存结果,简化重复操作命令
-https://github.com/Mr-xn/subdomain_shell
+设计模式超简单的解释。
+https://github.com/guanguans/design-patterns-for-humans-cn
 
-Spring4Shell漏洞环境
-https://github.com/jbaines-r7/spring4shell_vulnapp
+CVE-2021-40449 - Win32k 权限提升漏洞 (LPE)的利用
+https://github.com/ly4k/CallbackHell
 
-个人使用CodeQL编写的一些规则
-https://github.com/ice-doom/CodeQLRule
+一个命令行的 RPC 方法枚举器，源于 RPCView 的强大功能
+https://github.com/xpn/RpcEnum
 
-FPS透视和自动瞄准作弊的实现(使用imgui)，仅供学习参考
-https://github.com/WWFWT/FPSCheat
+阿里云盘小白羊版 阿里云盘PC版 aliyundriver
+https://github.com/liupan1890/aliyunpan
 
 > 来自HACK THE WORLD知识星球 && OverSpace安全团队
