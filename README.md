@@ -4,27 +4,42 @@
 
 ## 今日早读
 
-今日短句：万事皆由人的意志创造。
+今日短句：一花凋零，荒芜不了整个春天。
 
-正则表达式可视化编辑器
-https://github.com/Bowen7/regex-vis
+用于红队交战的 Rust 武器化
+https://github.com/trickster0/OffensiveRust
 
-我关于网络安全的笔记，中文、英文
-https://github.com/stevenyu113228/My-Security-Resources
+事件响应 - 快速可疑文件查找器
+https://github.com/codeyourweb/fastfinder
 
-首款双语双端内网扫描以及验证工具
-https://github.com/1n7erface/RequestTemplate
+开放源码的无App推送服务，iOS14+扫码即用。亦支持快应用/iOS和Mac客户端、Android客户端、自制设备
+https://github.com/easychen/pushdeer
 
-电信光猫HG2821T-U家庭网关代码执行反弹shell的PoC
-https://github.com/C4o/HG2821T-U_PoC
+类似按键精灵的鼠标键盘录制和自动化操作：模拟点击和键入
+https://github.com/taojy123/KeymouseGo
 
-DDoS 攻击 Python3 脚本，51 种方法的网络攻击
-https://github.com/MatrixTM/MHDDoS
+Web 攻击备忘单
+https://github.com/riramar/Web-Attack-Cheat-Sheet
 
-将你的语雀文档导出的工具
-https://github.com/yuque-helper/yuque2book
+异步http/https代理,可拦截修改报文
+https://github.com/qiyeboy/BaseProxy
 
-Rust资源分享中文版，每周三更新。
-https://github.com/KernelErr/awesome-rust-zh
+通过COM进行进程注入
+https://github.com/mdsecactivebreach/com_inject/
+
+一种通过诱使 dd 破坏自己（反射性注入）在 Linux 上无文件和隐蔽地运行二进制文件的技术。
+https://github.com/arget13/DDexec
+
+golang免杀捆绑器
+https://github.com/Yihsiwei/GoFileBinder
+
+基于Threathunting-book基础上完善的狩猎视角红队handbook
+https://github.com/satan1a/RedBook
+
+汇集在中国地区支持全远程/混合远程办公的公司。
+https://github.com/xubaifuCode/CN.Remote.Jobs
+
+使用 Docker 创建的红队基础设施测试
+https://github.com/DFlavian/Red-Team-Infrastructure
 
 > 来自HACK THE WORLD知识星球 && OverSpace安全团队
