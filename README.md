@@ -4,42 +4,30 @@
 
 ## 今日早读
 
-今日短句：一花凋零，荒芜不了整个春天。
+今日短句：只有你学会把自己已有的成绩都归零，才能腾出空间去接纳更多的新东西，如此才能使自己不断的超越自己。
 
-用于红队交战的 Rust 武器化
-https://github.com/trickster0/OffensiveRust
+Java漏洞靶场
+https://github.com/l4yn3/micro_service_seclab
 
-事件响应 - 快速可疑文件查找器
-https://github.com/codeyourweb/fastfinder
+又一个 Rss 订阅机器人
+https://github.com/firmianay/yarb
 
-开放源码的无App推送服务，iOS14+扫码即用。亦支持快应用/iOS和Mac客户端、Android客户端、自制设备
-https://github.com/easychen/pushdeer
+一个能快速开启和关闭匿名SMB共享的红队脚本
+https://github.com/NyDubh3/AnonymousSMBServer
 
-类似按键精灵的鼠标键盘录制和自动化操作：模拟点击和键入
-https://github.com/taojy123/KeymouseGo
+无文件的Java agent
+https://github.com/xiaopan233/Java_agent_without_file
 
-Web 攻击备忘单
-https://github.com/riramar/Web-Attack-Cheat-Sheet
+为 Java 代码生成所有调用图
+https://github.com/iiiusky/java-all-call-graph
 
-异步http/https代理,可拦截修改报文
-https://github.com/qiyeboy/BaseProxy
+Banli板栗-高危资产识别和高危漏洞扫描工具
+https://github.com/Goqi/Banli
 
-通过COM进行进程注入
-https://github.com/mdsecactivebreach/com_inject/
+cobaltstrike4.x版本破解、去除checksum8特征、bypass BeaconEye、修复错误路径泄漏stage、增加totp双因子认证
+https://github.com/lovechoudoufu/cobaltstrike4.4_cdf
 
-一种通过诱使 dd 破坏自己（反射性注入）在 Linux 上无文件和隐蔽地运行二进制文件的技术。
-https://github.com/arget13/DDexec
-
-golang免杀捆绑器
-https://github.com/Yihsiwei/GoFileBinder
-
-基于Threathunting-book基础上完善的狩猎视角红队handbook
-https://github.com/satan1a/RedBook
-
-汇集在中国地区支持全远程/混合远程办公的公司。
-https://github.com/xubaifuCode/CN.Remote.Jobs
-
-使用 Docker 创建的红队基础设施测试
-https://github.com/DFlavian/Red-Team-Infrastructure
+Java 23种设计模式全归纳
+https://github.com/youlookwhat/DesignPattern
 
 > 来自HACK THE WORLD知识星球 && OverSpace安全团队
