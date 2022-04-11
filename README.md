@@ -4,30 +4,30 @@
 
 ## 今日早读
 
-今日短句：只有你学会把自己已有的成绩都归零，才能腾出空间去接纳更多的新东西，如此才能使自己不断的超越自己。
+今日短句：当你的才华还撑不起你的野心时，应该静下心去学习。
 
-Java漏洞靶场
-https://github.com/l4yn3/micro_service_seclab
+通过 HTTP(S) 代理的隐形隧道
+https://github.com/proxytunnel/proxytunnel
 
-又一个 Rss 订阅机器人
-https://github.com/firmianay/yarb
+模板驱动的 AV/EDR 规避框架
+https://github.com/klezVirus/inceptor
 
-一个能快速开启和关闭匿名SMB共享的红队脚本
-https://github.com/NyDubh3/AnonymousSMBServer
+油猴脚本 - 一个免费开源的网盘下载助手
+https://github.com/syhyz1990/baiduyun
 
-无文件的Java agent
-https://github.com/xiaopan233/Java_agent_without_file
+美团买菜 抢菜脚本
+https://github.com/mengskysama/robVeg
 
-为 Java 代码生成所有调用图
-https://github.com/iiiusky/java-all-call-graph
+覆盖进程的恢复回调并使用 WER 执行
+https://github.com/Wra7h/ARCInject
 
-Banli板栗-高危资产识别和高危漏洞扫描工具
-https://github.com/Goqi/Banli
+通过对apk包的解析，查看使用的开发框架，如：Flutter, ReactNative, Weex
+https://github.com/sugood/apkanalyser
 
-cobaltstrike4.x版本破解、去除checksum8特征、bypass BeaconEye、修复错误路径泄漏stage、增加totp双因子认证
-https://github.com/lovechoudoufu/cobaltstrike4.4_cdf
+利用powershell收集用户浏览器中保存的密码，桌面办公文件，电脑硬件软件信息。发送到指定邮件
+https://github.com/kalivim/Powershell_fisher
 
-Java 23种设计模式全归纳
-https://github.com/youlookwhat/DesignPattern
+Browser Fuzz Summarize / 浏览器模糊测试综述
+https://github.com/LyleMi/Browser-Fuzz-Summarize
 
 > 来自HACK THE WORLD知识星球 && OverSpace安全团队
