@@ -4,27 +4,27 @@
 
 ## 今日早读
 
-今日短句：莫等闲，白了少年头，空悲切。
+今日短句：光说不干，事事落空；又说又干，马到成功。
 
-自建的0环3环调用框架，借助中断门入0环，支持多核环境
-https://github.com/grace2017/MySSDT
+网络安全资讯的RSS订阅，网络安全博客的RSS订阅
+https://github.com/zhengjim/Chinese-Security-RSS
 
-强化fscan的漏扫POC库
-https://github.com/chaosec2021/fscan-POC
+Cobalt Strike 用户定义的反射加载器，用汇编和 C 编写，用于高级规避功能。
+https://github.com/boku7/BokuLoader
 
-《黑客免杀攻防》一书中的C++壳
-https://github.com/Or0kit/Or0packBase
+一个用于隐藏C2的、开箱即用的反向代理服务器。旨在省去繁琐的配置Nginx服务的过程。
+https://github.com/ort4u/Ortau
 
-润学全球官方指定GITHUB，整理润学宗旨、纲领、理论和各类润之实例
-https://github.com/The-Run-Philosophy-Organization/run
+针对 Acunetix AWVS扫描器开发的批量扫描脚本，支持log4j漏洞、SpringShell、SQL注入、XSS、弱口令等专项，支持联动xray、burp、w13scan等被动批量
+https://github.com/test502git/awvs14-scan
 
-WPS-Office-本地权限提升漏洞
-https://github.com/HadiMed/KINGSOFT-WPS-Office-LPE
+🌏 [WIP]整理好了之后迁移到 cdk-team/document，包含各类容器、K8s攻防场景的CDK文档。
+https://github.com/neargle/cdk_document
 
-《Effective Go》中英双语版
-https://github.com/bingohuang/effective-go-zh-en
+一个利用摸鱼时间背单词的软件。
+https://github.com/Uahh/ToastFish
 
-开源OA系统，支持国产麒麟操作系统和国产数据库（达梦、人大金仓），政务OA，军工信息化OA
-https://github.com/o2oa/o2oa
+利用从 ntdll.dll 导出的函数的 C# shellcode 注入器
+https://github.com/brendanpy/SharpInjector
 
 > 来自HACK THE WORLD知识星球 && OverSpace安全团队
