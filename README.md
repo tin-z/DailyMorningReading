@@ -4,27 +4,30 @@
 
 ## 今日早读
 
-今日短句：光说不干，事事落空；又说又干，马到成功。
+今日短句：注意你的思想，它会变成你的言语；注意你的言语，它会变成你的行动；注意你的行动，它会变成你的习惯；注意你的习惯，它会变成你的性格；注意你的性格，它会变成你的命运。
 
-网络安全资讯的RSS订阅，网络安全博客的RSS订阅
-https://github.com/zhengjim/Chinese-Security-RSS
+通过JavaAgent与Javassist技术对JVM加载的类对象进行动态插桩，可以做一些破解、加密验证的绕过等操作
+https://github.com/Rvn0xsy/DumperAnalyze
 
-Cobalt Strike 用户定义的反射加载器，用汇编和 C 编写，用于高级规避功能。
-https://github.com/boku7/BokuLoader
+.NET 攻击 vCenter 项目
+https://github.com/JamesCooteUK/SharpSphere
 
-一个用于隐藏C2的、开箱即用的反向代理服务器。旨在省去繁琐的配置Nginx服务的过程。
-https://github.com/ort4u/Ortau
+POC for VMWARE CVE-2022-22954
+https://github.com/sherlocksecurity/VMware-CVE-2022-22954
 
-针对 Acunetix AWVS扫描器开发的批量扫描脚本，支持log4j漏洞、SpringShell、SQL注入、XSS、弱口令等专项，支持联动xray、burp、w13scan等被动批量
-https://github.com/test502git/awvs14-scan
+【稳定大于一切】打造国内稳定性领域知识库，让无法解决的问题少一点点，让世界的确定性多一点点。
+https://github.com/StabilityMan/StabilityGuide
 
-🌏 [WIP]整理好了之后迁移到 cdk-team/document，包含各类容器、K8s攻防场景的CDK文档。
-https://github.com/neargle/cdk_document
+Go相关的安全研究
+https://github.com/leveryd/go-sec-code
 
-一个利用摸鱼时间背单词的软件。
-https://github.com/Uahh/ToastFish
+关于intel和amd指令行为不一样这件事
+https://github.com/huoji120/cpu_duck
 
-利用从 ntdll.dll 导出的函数的 C# shellcode 注入器
-https://github.com/brendanpy/SharpInjector
+IoT 固件漏洞复现环境
+https://github.com/firmianay/IoT-vulhub
+
+利用天眼查查询企业子公司
+https://github.com/canc3s/cSubsidiary
 
 > 来自HACK THE WORLD知识星球 && OverSpace安全团队
