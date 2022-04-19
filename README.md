@@ -4,30 +4,33 @@
 
 ## 今日早读
 
-今日短句：注意你的思想，它会变成你的言语；注意你的言语，它会变成你的行动；注意你的行动，它会变成你的习惯；注意你的习惯，它会变成你的性格；注意你的性格，它会变成你的命运。
+今日短句：决定成功的是细节，而决定失败的是格局。
 
-通过JavaAgent与Javassist技术对JVM加载的类对象进行动态插桩，可以做一些破解、加密验证的绕过等操作
-https://github.com/Rvn0xsy/DumperAnalyze
+一个以 叮咚买菜自动抢购 为案例的自动化程序
+https://github.com/zc2638/ddshop
 
-.NET 攻击 vCenter 项目
-https://github.com/JamesCooteUK/SharpSphere
+FreeRDP 是一个免费的远程桌面协议客户端
+https://github.com/dodo040/FreeRDP-smartcardlogon
 
-POC for VMWARE CVE-2022-22954
-https://github.com/sherlocksecurity/VMware-CVE-2022-22954
+springboot跨线程注入内存马
+https://github.com/passer-W/snakeyaml-memshell
 
-【稳定大于一切】打造国内稳定性领域知识库，让无法解决的问题少一点点，让世界的确定性多一点点。
-https://github.com/StabilityMan/StabilityGuide
+FASTJSON2是FASTJSON项目的重要升级，目标是为下一个十年提供一个高性能的JSON库
+https://github.com/alibaba/fastjson2
 
-Go相关的安全研究
-https://github.com/leveryd/go-sec-code
+js引擎v8源码解析（基于0.1.5）
+https://github.com/theanarkh/read-v8-0.1.5
 
-关于intel和amd指令行为不一样这件事
-https://github.com/huoji120/cpu_duck
+frp0.38.1 支持域前置、远程加载配置文件、配置文件自删除、流量特征修改
+https://github.com/atsud0/frp-modify
 
-IoT 固件漏洞复现环境
-https://github.com/firmianay/IoT-vulhub
+aws云平台 accessKey 泄漏利用工具
+https://github.com/Aabyss-Team/awsKeyTools
 
-利用天眼查查询企业子公司
-https://github.com/canc3s/cSubsidiary
+一款SRC密码生成工具，尝试top字典无果后，可以根据域名、公司名等因素来生成特定的字典
+https://github.com/ort4u/PwdBUD
+
+AntSword 自定义编(解)码器分享
+https://github.com/AntSwordProject/AwesomeEncoder
 
 > 来自HACK THE WORLD知识星球 && OverSpace安全团队
