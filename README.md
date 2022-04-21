@@ -4,30 +4,27 @@
 
 ## 今日早读
 
-今日短句：我们的报酬取决于我们所做出的贡献。
+今日短句：冰冻三尺，非一日之寒；滴水穿石，非一日之功。
 
-程序员延寿指南 | A programmer's guide to live longer
-https://github.com/geekan/HowToLiveLonger
+Windows Emergency Response （应急响应信息采集）
+https://github.com/ra66itmachine/GetInfo
 
-漏洞靶场平台
-https://github.com/leveryd/vulndocker
+腾讯科恩实验室开源的二进制漏洞发现项目
+https://github.com/KeenSecurityLab/BinAbsInspector
 
-BINSEC 是一个开源工具集，可帮助提高二进制级别的软件安全性
-https://github.com/binsec/binsec
+Java Web安全开源教程
+https://github.com/javaweb-sec/javaweb-sec
 
-T Wiki 云安全知识文库，可能是国内首个云安全知识文库？
-https://github.com/teamssix/twiki
+用 C# 编写的远程访问工具
+https://github.com/arsium/EagleMonitorRAT
 
-国内低代码平台从业者交流
-https://github.com/taowen/awesome-lowcode
+用 C# 编写的 HTTP/HTTPS socks4a 隧道代理，可通过 PowerShell 部署
+https://github.com/nettitude/SharpSocks
 
-绕过基于事件的注入检测的规避性shellcode加载器（PoC）
-https://github.com/xuanxuan0/DripLoader
+VulCan资产管理系统|漏洞扫描|资产探测|定时扫描
+https://github.com/XTeam-Wing/Vulcan
 
-本项目制作的初衷是帮助渗透新手快速搭建工作环境，工欲善其事，必先利其器。
-https://github.com/makoto56/penetration-suite-toolkit
-
-爬取知识星球，并制作成 PDF 电子书。
-https://github.com/96chh/crawl-zsxq
+yarGen 是 YARA 规则的生成器
+https://github.com/Neo23x0/yarGen
 
 > 来自HACK THE WORLD知识星球 && OverSpace安全团队
