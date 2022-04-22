@@ -4,27 +4,30 @@
 
 ## 今日早读
 
-今日短句：冰冻三尺，非一日之寒；滴水穿石，非一日之功。
+今日短句：过去的靠现在忘记，将来的靠现在努力，现在才最重要。
 
-Windows Emergency Response （应急响应信息采集）
-https://github.com/ra66itmachine/GetInfo
+无痕注入
+https://github.com/qq1045551070/IoInject
 
-腾讯科恩实验室开源的二进制漏洞发现项目
-https://github.com/KeenSecurityLab/BinAbsInspector
+聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。
+https://github.com/ycdxsb/PocOrExp_in_Github
 
-Java Web安全开源教程
-https://github.com/javaweb-sec/javaweb-sec
+StandIn 是一个小型 .NET35/45 AD 后利用工具包
+https://github.com/FuzzySecurity/StandIn
 
-用 C# 编写的远程访问工具
-https://github.com/arsium/EagleMonitorRAT
+关于红队方面的学习资料
+https://github.com/we1h0/redteam-tips
 
-用 C# 编写的 HTTP/HTTPS socks4a 隧道代理，可通过 PowerShell 部署
-https://github.com/nettitude/SharpSocks
+红队常用命令速查
+https://github.com/safe6Sec/command
 
-VulCan资产管理系统|漏洞扫描|资产探测|定时扫描
-https://github.com/XTeam-Wing/Vulcan
+捕获、操纵和重放 HTTP/HTTPS 流量的瑞士军刀代理工具
+https://github.com/projectdiscovery/proxify
 
-yarGen 是 YARA 规则的生成器
-https://github.com/Neo23x0/yarGen
+PHP 的静态代码分析器（PhpStorm/Idea 插件）
+https://github.com/kalessil/phpinspectionsea
+
+base64, in rust
+https://github.com/marshallpierce/rust-base64
 
 > 来自HACK THE WORLD知识星球 && OverSpace安全团队
