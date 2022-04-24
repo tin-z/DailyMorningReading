@@ -4,30 +4,30 @@
 
 ## 今日早读
 
-今日短句：过去的靠现在忘记，将来的靠现在努力，现在才最重要。
+今日短句：乾坤未定，你我皆是黑马。
 
-无痕注入
-https://github.com/qq1045551070/IoInject
+WProtect 是一个开源项目，它使用代码虚拟化技术来保护二进制文件。
+https://github.com/xiaoweime/WProtect
 
-聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。
-https://github.com/ycdxsb/PocOrExp_in_Github
+一款为了学习go而诞生的漏洞利用工具（Spring）
+https://github.com/SummerSec/SpringExploit
 
-StandIn 是一个小型 .NET35/45 AD 后利用工具包
-https://github.com/FuzzySecurity/StandIn
+新浪微博爬虫，用python爬取新浪微博数据
+https://github.com/dataabc/weiboSpider
 
-关于红队方面的学习资料
-https://github.com/we1h0/redteam-tips
+在网传的哥斯拉&冰蝎源码基础上加了一点注释
+https://github.com/safe6Sec/ShellManageTool
 
-红队常用命令速查
-https://github.com/safe6Sec/command
+ysoserial修改版，着重修改ysoserial.payloads.util.Gadgets.createTemplatesImpl使其可以通过引入自定义class的形式来执行命令、内存马、反序列化回显。
+https://github.com/Y4er/ysoserial
 
-捕获、操纵和重放 HTTP/HTTPS 流量的瑞士军刀代理工具
-https://github.com/projectdiscovery/proxify
+远程创建任务计划工具
+https://github.com/Rvn0xsy/SchtaskCreator
 
-PHP 的静态代码分析器（PhpStorm/Idea 插件）
-https://github.com/kalessil/phpinspectionsea
+Shiro-721 Padding Oracle Attack
+https://github.com/longofo/PaddingOracleAttack-Shiro-721
 
-base64, in rust
-https://github.com/marshallpierce/rust-base64
+基于 C 的 gRPC（C、Python、Ruby、Objective-C、PHP、C#）
+https://github.com/grpc/grpc
 
 > 来自HACK THE WORLD知识星球 && OverSpace安全团队
