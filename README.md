@@ -4,30 +4,30 @@
 
 ## 今日早读
 
-今日短句：乾坤未定，你我皆是黑马。
+今日短句：少年易学老难成，一寸光阴不可轻。
 
-WProtect 是一个开源项目，它使用代码虚拟化技术来保护二进制文件。
-https://github.com/xiaoweime/WProtect
+代理 DLL 的工具/库
+https://github.com/jmgk77/PDL
 
-一款为了学习go而诞生的漏洞利用工具（Spring）
-https://github.com/SummerSec/SpringExploit
+用于对给定子网/CIDR 范围执行多项操作的小型实用程序
+https://github.com/projectdiscovery/mapcidr
 
-新浪微博爬虫，用python爬取新浪微博数据
-https://github.com/dataabc/weiboSpider
+《深入理解DAST动态应用程序安全测试》Dynamic Application Security Testing.
+https://github.com/ASTTeam/DAST
 
-在网传的哥斯拉&冰蝎源码基础上加了一点注释
-https://github.com/safe6Sec/ShellManageTool
+《深入理解SAST静态应用安全测试》Static Application Security Testing.
+https://github.com/ASTTeam/SAST
 
-ysoserial修改版，着重修改ysoserial.payloads.util.Gadgets.createTemplatesImpl使其可以通过引入自定义class的形式来执行命令、内存马、反序列化回显。
-https://github.com/Y4er/ysoserial
+提取自群晖平台的迅雷下载套件，用在其他Linux机器上的迅雷远程下载服务
+https://github.com/cnk3x/xunlei
 
-远程创建任务计划工具
-https://github.com/Rvn0xsy/SchtaskCreator
+(ssrf,RCE,Lfi,sqli,ssti,idor,url redirection,debug_logic,interesting Subs) 参数字典
+https://github.com/1ndianl33t/Gf-Patterns
 
-Shiro-721 Padding Oracle Attack
-https://github.com/longofo/PaddingOracleAttack-Shiro-721
+轻量级 C/C++ PE 解析器
+https://github.com/trailofbits/pe-parse
 
-基于 C 的 gRPC（C、Python、Ruby、Objective-C、PHP、C#）
-https://github.com/grpc/grpc
+微信小程序.wxapkg解码工具
+https://github.com/sjatsh/unwxapkg
 
 > 来自HACK THE WORLD知识星球 && OverSpace安全团队
