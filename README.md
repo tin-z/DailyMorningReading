@@ -4,33 +4,33 @@
 
 ## 今日早读
 
-今日短句：生活的激流已经涌现到万丈峭壁，只要再前进一步，就会变成壮丽的瀑布。
+今日短句：忍耐不是美德，把忍耐当成美德是这个伪善的世界维持它扭曲的秩序的方式，生气才是美德。
 
-跨域demo。CORS、JSONP、postMessage、websocket、document.domain、window.name、iframe等示例
-https://github.com/FatDong1/cross-origin
+CVE-2022-0543_RCE,Redis Lua沙盒绕过 命令执行
+https://github.com/aodsec/CVE-2022-0543
 
-Go语言101 : 一本侧重于Go语言语法和语义的编程解释和指导书
-https://github.com/golang101/golang101
+科技爱好者周刊，每周五发布
+https://github.com/ruanyf/weekly
 
-windows pc端wxpkg文件解密（非解包）
-https://github.com/BlackTrace/pc_wxapkg_decrypt
+基于各大API的一款企业信息查询工具，为了更快速的获取企业的信息，省去收集的麻烦过程，web端于plat平台上线
+https://github.com/wgpsec/ENScan
 
-Java应用的一些配置文件字典，来源于公开的字典与平时收集
-https://github.com/f0ng/JavaFileDict
+ddddocr训练工具
+https://github.com/sml2h3/dddd_trainer
 
-一个花里胡哨的Exploit运行框架
-https://github.com/ca3tie1/ExploitDepository
+在 ZoneAlarm 防病毒/防火墙中利用 LPE
+https://github.com/Wh04m1001/ZoneAlarmLPE
 
-Tai-e 静态程序分析作业
-https://github.com/pascal-lab/Tai-e-assignments
+Rust Shellcode加载器
+https://github.com/b1tg/rs_shellcode
 
-金山卫士开源代码。同步于Hg源。为了方便查看和学习，同步到Github
-https://github.com/shenghe/pcmanager
+开发内功修炼
+https://github.com/yanfeizhang/coder-kung-fu
 
-一个使用 Go 语言开发的，超级轻量的跳板机服务。
-https://github.com/TNK-Studio/gortal
+常用安全工具 docker镜像 自动更新仓库
+https://github.com/xiecat/sec-docker
 
-实现动态字典渲染、动态结果判断、自动命中记录、的敏感文件扫描器
-https://github.com/winezer0/DynaScan
+使用 aswArPot.sys 杀死进程
+https://github.com/timwhitez/killProcessPOC
 
 > 来自HACK THE WORLD知识星球 && OverSpace安全团队
