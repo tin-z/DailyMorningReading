@@ -4,33 +4,30 @@
 
 ## 今日早读
 
-今日短句：忍耐不是美德，把忍耐当成美德是这个伪善的世界维持它扭曲的秩序的方式，生气才是美德。
+今日短句：黑发不知勤学早，白首方悔读书迟。
 
-CVE-2022-0543_RCE,Redis Lua沙盒绕过 命令执行
-https://github.com/aodsec/CVE-2022-0543
+一个NodeJS实现的漏扫动态爬虫
+https://github.com/Passer6y/CrawlerVuln
 
-科技爱好者周刊，每周五发布
-https://github.com/ruanyf/weekly
+DNSLOG、httplog、rmilog、ldaplog、jndi 等都支持,完全匿名 产品(fuzz.red)，Alphalog与传统DNSLog不同，更快、更安全。
+https://github.com/AlphabugX/Alphalog
 
-基于各大API的一款企业信息查询工具，为了更快速的获取企业的信息，省去收集的麻烦过程，web端于plat平台上线
-https://github.com/wgpsec/ENScan
+内网自动化快速打点工具｜资产探测｜漏洞扫描｜服务扫描｜弱口令爆破
+https://github.com/ExpLangcn/Aopo
 
-ddddocr训练工具
-https://github.com/sml2h3/dddd_trainer
+收集一些国内外不错的云安全资源，主要是国内
+https://github.com/teamssix/awesome-cloud-security
 
-在 ZoneAlarm 防病毒/防火墙中利用 LPE
-https://github.com/Wh04m1001/ZoneAlarmLPE
+整理一些内网常用渗透小工具
+https://github.com/Lucifer1993/PLtools
 
-Rust Shellcode加载器
-https://github.com/b1tg/rs_shellcode
+shellcode 注入技术集合
+https://github.com/snovvcrash/DInjector
 
-开发内功修炼
-https://github.com/yanfeizhang/coder-kung-fu
+用python进行文本分词并生成词云
+https://github.com/fuqiuai/wordCloud
 
-常用安全工具 docker镜像 自动更新仓库
-https://github.com/xiecat/sec-docker
-
-使用 aswArPot.sys 杀死进程
-https://github.com/timwhitez/killProcessPOC
+用来存放平时写的一些net内存马，仅用于练手，需要可以自行修改
+https://github.com/crisprss/net_memory_webshell
 
 > 来自HACK THE WORLD知识星球 && OverSpace安全团队
