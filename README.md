@@ -4,30 +4,27 @@
 
 ## 今日早读
 
-今日短句：黑发不知勤学早，白首方悔读书迟。
+今日短句：不要相信你认为自己相信的一切东西。
 
-一个NodeJS实现的漏扫动态爬虫
-https://github.com/Passer6y/CrawlerVuln
+c 语言实现的内网穿透客户端，配合frp服务端使用。主要用于基于openwrt的路由器上，对路由器的硬件配置要求极低。
+https://github.com/liudf0716/xfrpc
 
-DNSLOG、httplog、rmilog、ldaplog、jndi 等都支持,完全匿名 产品(fuzz.red)，Alphalog与传统DNSLog不同，更快、更安全。
-https://github.com/AlphabugX/Alphalog
+一个用于隐藏C2的、开箱即用的反向代理服务器。 旨在省去繁琐的配置Nginx服务的过程。
+https://github.com/Phuong39/Ortau
 
-内网自动化快速打点工具｜资产探测｜漏洞扫描｜服务扫描｜弱口令爆破
-https://github.com/ExpLangcn/Aopo
+数据库综合利用工具
+https://github.com/Ryze-T/Sylas
 
-收集一些国内外不错的云安全资源，主要是国内
-https://github.com/teamssix/awesome-cloud-security
+拿来即用的Tomcat7/8/9/10版本Listener/Filter/Servlet内存马，支持注入CMD内存马和冰蝎内存马
+https://github.com/ce-automne/TomcatMemShell
 
-整理一些内网常用渗透小工具
-https://github.com/Lucifer1993/PLtools
+OWASP ModSecurity 核心规则集
+https://github.com/coreruleset/coreruleset
 
-shellcode 注入技术集合
-https://github.com/snovvcrash/DInjector
+从零开始学编程 系列汇总（从α到Ω）
+https://github.com/justjavac/Programming-Alpha-To-Omega
 
-用python进行文本分词并生成词云
-https://github.com/fuqiuai/wordCloud
-
-用来存放平时写的一些net内存马，仅用于练手，需要可以自行修改
-https://github.com/crisprss/net_memory_webshell
+主流供应商的一些攻击性漏洞汇总
+https://github.com/ThestaRY7/supplier
 
 > 来自HACK THE WORLD知识星球 && OverSpace安全团队
