@@ -2064,3 +2064,54 @@ https://github.com/justjavac/Programming-Alpha-To-Omega
 https://github.com/ThestaRY7/supplier
 
 > 来自HACK THE WORLD知识星球 && OverSpace安全团队
+
+#HACK-THE-WORLD早读#
+
+今日短句：了解自己的一个好方法是认真反思别人身上令你讨厌的一切东西。
+
+这是一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。
+https://github.com/zhongyang219/TrafficMonitor
+
+学习OSCP时不认识的单词汇总整理成此表。
+https://github.com/Werneror/OSCPVocabulary
+
+记录各个包管理器使用代理的方法, 因为GFW已经浪费了已经数不清的时间, FUCK GFW
+https://github.com/comwrg/FUCK-GFW
+
+一款基于ZoomEye、360Quake、Fofa、Hunter等进行站点收集，基于Xray、Goby、Awvs等进行扫描的红队自动化工具。
+https://github.com/Wolf-Scan/Wolf-Scan
+
+upx静态脱壳机源码
+https://github.com/lantie/unpack02
+
+获取域控权限方法枚举
+https://github.com/JDArmy/GetDomainAdmin
+
+一个安全工具集成平台,最大特点是集成的工具多、种类全;你可以将喜欢的工具编排成任意一个场景，快速打造自己的安全工作台~
+https://github.com/StarCrossPortal/QingTing
+
+> 来自HACK THE WORLD知识星球 && OverSpace安全团队
+
+#HACK-THE-WORLD早读#
+
+今日短句：做人不能忘记四条，话不要说错，床不要睡错，门槛不要踏错，口袋不要摸错。
+
+CobaltStrike 4.0 - 4.5 Patch
+https://github.com/Like0x/0xagent
+
+基于斗象灯塔修改后的版本
+https://github.com/ki9mu/ARL-plus-docker
+
+autochk rootkit的逆向工程源代码
+https://github.com/repnz/autochk-rootkit
+
+EV：通过数据包操作逃避 IDS
+https://github.com/TomAPU/ev
+
+来自中国的开源RAT
+https://github.com/smb01/zxshell
+
+基于 chrome headless 的 XSS 漏洞发现工具。
+https://github.com/Buzz2d0/xssfinder
+
+> 来自HACK THE WORLD知识星球 && OverSpace安全团队
