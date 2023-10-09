@@ -4,24 +4,24 @@
 
 ## 今日早读
 
-今日短句：做人不能忘记四条，话不要说错，床不要睡错，门槛不要踏错，口袋不要摸错。
+今日短句：成功的秘诀是始终坚持前行。
 
-CobaltStrike 4.0 - 4.5 Patch
-https://github.com/Like0x/0xagent
+【Golang语言】微信小程序 .wxapkg 文件扫描 + 解密 + 解包工具
+https://github.com/wux1an/wxapkg
 
-基于斗象灯塔修改后的版本
-https://github.com/ki9mu/ARL-plus-docker
+使用多种WinAPI进行权限维持的CobaltStrike脚本，包含API设置系统服务，设置计划任务，管理用户等。
+https://github.com/yanghaoi/CobaltStrike_CNA
 
-autochk rootkit的逆向工程源代码
-https://github.com/repnz/autochk-rootkit
+Google 开源项目风格指南 (中文版)
+https://github.com/zh-google-styleguide/zh-google-styleguide
 
-EV：通过数据包操作逃避 IDS
-https://github.com/TomAPU/ev
+Java Security，安全编码和代码审计
+https://github.com/j3ers3/Hello-Java-Sec
 
-来自中国的开源RAT
-https://github.com/smb01/zxshell
+一款支持高度自定义的 Java 回显载荷生成工具
+https://github.com/pen4uin/java-echo-generator-release
 
-基于 chrome headless 的 XSS 漏洞发现工具。
-https://github.com/Buzz2d0/xssfinder
+《Hello 算法》：动画图解、一键运行的数据结构与算法教程，支持 Java, C++, Python, Go, JS, TS, C#, Swift, Rust, Dart, Zig 等语言。
+https://github.com/krahets/hello-algo
 
-> 来自HACK THE WORLD知识星球 && OverSpace安全团队
+> 来自HACK THE WORLD知识星球 && OverSpace凌驭空间安全团队
