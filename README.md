@@ -4,24 +4,28 @@
 
 ## 今日早读
 
-今日短句：成功的秘诀是始终坚持前行。
+今日短句：水滴石穿，绳锯木断。
 
-【Golang语言】微信小程序 .wxapkg 文件扫描 + 解密 + 解包工具
-https://github.com/wux1an/wxapkg
+通过一些远程桌面软件绕过杀软的实验
+https://github.com/RuoJi6/Deskbypass
 
-使用多种WinAPI进行权限维持的CobaltStrike脚本，包含API设置系统服务，设置计划任务，管理用户等。
-https://github.com/yanghaoi/CobaltStrike_CNA
+DLL/COM劫持工具包
+https://github.com/Accenture/Spartacus
 
-Google 开源项目风格指南 (中文版)
-https://github.com/zh-google-styleguide/zh-google-styleguide
+实战沉淀的Web测试字典
+https://github.com/SexyBeast233/SecDictionary
 
-Java Security，安全编码和代码审计
-https://github.com/j3ers3/Hello-Java-Sec
+一个浏览器数据（密码|历史记录|Cookie|书签|下载记录）的导出工具，支持主流浏览器。
+https://github.com/StarfireLab/SharpWeb
 
-一款支持高度自定义的 Java 回显载荷生成工具
-https://github.com/pen4uin/java-echo-generator-release
+Web CTF（夺旗赛）备忘录，涵盖常见CTF比赛中遇到的思路
+https://github.com/w181496/Web-CTF-Cheatsheet
 
-《Hello 算法》：动画图解、一键运行的数据结构与算法教程，支持 Java, C++, Python, Go, JS, TS, C#, Swift, Rust, Dart, Zig 等语言。
-https://github.com/krahets/hello-algo
+SearchAll快速搜索服务器中的有关的敏感信息
+https://github.com/Naturehi666/searchall
+
+Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。
+https://github.com/jaywcjlove/linux-command
 
 > 来自HACK THE WORLD知识星球 && OverSpace凌驭空间安全团队
+
