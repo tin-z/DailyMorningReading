@@ -4,28 +4,27 @@
 
 ## 今日早读
 
-今日短句：水滴石穿，绳锯木断。
+今日短句：最好的报复是美丽，最美的盛开是反击。
 
-通过一些远程桌面软件绕过杀软的实验
-https://github.com/RuoJi6/Deskbypass
+该工具用于导出正在运行中的微信进程的 key 并自动解密所有微信数据库文件以及导出 key 后数据库文件离线解密。
+https://github.com/0xlane/wechat-dump-rs
 
-DLL/COM劫持工具包
-https://github.com/Accenture/Spartacus
+只需放置一个dll 简单方便的hook微信强制打开小程序 devtool
+https://github.com/xxxxxxxx666/WeChatDevTools
 
-实战沉淀的Web测试字典
-https://github.com/SexyBeast233/SecDictionary
+Eziriz .NET Reactor反混淆器和解包工具。
+https://github.com/SychicBoy/NETReactorSlayer
 
-一个浏览器数据（密码|历史记录|Cookie|书签|下载记录）的导出工具，支持主流浏览器。
-https://github.com/StarfireLab/SharpWeb
+网络指纹识别JA4+（JA3升级版）
+https://github.com/FoxIO-LLC/ja4
 
-Web CTF（夺旗赛）备忘录，涵盖常见CTF比赛中遇到的思路
-https://github.com/w181496/Web-CTF-Cheatsheet
+bindiff：快速查找反汇编代码中的差异和相似之处。
+https://github.com/google/bindiff
 
-SearchAll快速搜索服务器中的有关的敏感信息
-https://github.com/Naturehi666/searchall
+本项目旨在分享大模型相关技术原理以及实战经验。
+https://github.com/liguodongiot/llm-action
 
-Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。
-https://github.com/jaywcjlove/linux-command
+一个雏形，一个基于Volatility进行可视化、自动化内存镜像分析的工具
+https://github.com/Randark-JMT/memory-image-auto-analyzer
 
 > 来自HACK THE WORLD知识星球 && OverSpace凌驭空间安全团队
-
