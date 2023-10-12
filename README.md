@@ -4,27 +4,24 @@
 
 ## 今日早读
 
-今日短句：最好的报复是美丽，最美的盛开是反击。
+今日短句：在每一个新的早晨，阳光为我们带来无限可能。
 
-该工具用于导出正在运行中的微信进程的 key 并自动解密所有微信数据库文件以及导出 key 后数据库文件离线解密。
-https://github.com/0xlane/wechat-dump-rs
+观看全球最新的精彩安全演讲（议题集合）
+https://github.com/TalEliyahu/awesome-cybersecurity-conferences
 
-只需放置一个dll 简单方便的hook微信强制打开小程序 devtool
-https://github.com/xxxxxxxx666/WeChatDevTools
+解析Android中的dex文件格式
+https://github.com/fourbrother/parse_androiddex
 
-Eziriz .NET Reactor反混淆器和解包工具。
-https://github.com/SychicBoy/NETReactorSlayer
+oracle 数据库命令执行
+https://github.com/jas502n/oracleShell
 
-网络指纹识别JA4+（JA3升级版）
-https://github.com/FoxIO-LLC/ja4
+Tai-e：一个易学易用的Java静态分析框架。
+https://github.com/pascal-lab/Tai-e
 
-bindiff：快速查找反汇编代码中的差异和相似之处。
-https://github.com/google/bindiff
+一款高可扩展、安全、免费的企业级蜜罐系统
+https://github.com/decoymini/DecoyMini
 
-本项目旨在分享大模型相关技术原理以及实战经验。
-https://github.com/liguodongiot/llm-action
-
-一个雏形，一个基于Volatility进行可视化、自动化内存镜像分析的工具
-https://github.com/Randark-JMT/memory-image-auto-analyzer
+基于kotlin+tornadoFx的跨平台密码学工具箱
+https://github.com/Leon406/ToolsFx
 
 > 来自HACK THE WORLD知识星球 && OverSpace凌驭空间安全团队
